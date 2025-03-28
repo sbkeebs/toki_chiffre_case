@@ -1,8 +1,8 @@
 # toki 
-toki li poki lili pi ilo toki "Le Chiffre"
+〔toki〕 li poki pona lili pi ilo toki 〔Le Chiffre〕
 
 ## what
-toki is a minimal case for Le Chiffre keyboard. the toki pona word "toki" means "communicate, say, think; conversation, story; language" (according to [nimi.li](https://nimi.li)) [toki pona](https://tokipona.org/#about) is a tiny little conlang. 
+toki is a small, minimal case for (the) Le Chiffre keyboard. the toki pona word "toki" means "communicate, say, think; conversation, story; language" (according to [nimi.li](https://nimi.li)) [toki pona](https://tokipona.org/#about) is a tiny little conlang. 
 
 ## okay
 this case is a friction fit with short pegs on the bottom fitting into holes on the top. it is possible to pry it open after assembly with a thin tool (a guitar pick can work), but it's not easy. be careful with your pcb.
