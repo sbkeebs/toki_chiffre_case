@@ -1,5 +1,5 @@
 # toki 
-〔toki〕 li poki pona lili pi ilo toki 〔Le Chiffre〕
+«toki» li poki pona lili pi ilo toki «Le Chiffre»
 
 ## what
 toki is a small, minimal case for (the) Le Chiffre keyboard. the toki pona word "toki" means "communicate, say, think; conversation, story; language" (according to [nimi.li](https://nimi.li)) [toki pona](https://tokipona.org/#about) is a tiny little conlang. 
